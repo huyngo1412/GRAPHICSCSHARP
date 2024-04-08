@@ -1,0 +1,94 @@
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.exe
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.deps.json
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.runtimeconfig.json
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.dll
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.pdb
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.AssemblyReference.cache
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.Form1.resources
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.Properties.Resources.resources
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.GenerateResource.cache
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.AssemblyInfoInputs.cache
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.AssemblyInfo.cs
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.CoreCompileInputs.cache
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.dll
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\refint\GraphicsCKC.dll
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.pdb
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.genruntimeconfig.cache
+C:\Users\Quang Huy\Documents\project winform\project nhỏ\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\ref\GraphicsCKC.dll
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.exe
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.deps.json
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.runtimeconfig.json
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.dll
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.pdb
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.AssemblyReference.cache
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.Form1.resources
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.Properties.Resources.resources
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.GenerateResource.cache
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.AssemblyInfoInputs.cache
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.AssemblyInfo.cs
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.CoreCompileInputs.cache
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.dll
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\refint\GraphicsCKC.dll
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.pdb
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.genruntimeconfig.cache
+C:\Users\bachk\Desktop\HUY\C#\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\ref\GraphicsCKC.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.exe
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.deps.json
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.runtimeconfig.json
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\GraphicsCKC.pdb
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.AssemblyReference.cache
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.Form1.resources
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.Properties.Resources.resources
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.GenerateResource.cache
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.AssemblyInfoInputs.cache
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.AssemblyInfo.cs
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.CoreCompileInputs.cache
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\refint\GraphicsCKC.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.pdb
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.genruntimeconfig.cache
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\ref\GraphicsCKC.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Office.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\Interop.AutoCAD.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.ResolveComReference.cache
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\obj\Debug\net6.0-windows\GraphicsCKC.csproj.CopyComplete
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\accoremgd.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\acdbmgd.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\acmgd.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AdUiPalettes.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AcDx.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AcDxPublishUi.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AdWindows.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AcMr.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AcWindows.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AdUIMgd.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AcTcMgd.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AcCui.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\AcMNUParser.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\en-US\acdbmgd.resources.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\en-US\AcDx.resources.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\en-US\AcDxPublishUi.resources.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\en-US\AdWindows.resources.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\en-US\AcMr.resources.dll
+C:\Users\Quang Huy\Documents\GraphicsCKC\GraphicsCKC\bin\Debug\net6.0-windows\en-US\AcWindows.resources.dll
